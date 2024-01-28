@@ -1,4 +1,0 @@
-yum install chrony
-
-timedatectl set-ntp true
-
