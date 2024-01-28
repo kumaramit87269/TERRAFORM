@@ -1,6 +1,0 @@
-files
-
-
-main.tf >> for main code
-variables.tf >> for variable 
-terraform.tfvars >> for variable value initilization
