@@ -1,5 +1,5 @@
 This is my first repositery
 <br>
-author = Amit kumar
+Author = Amit kumar
 <br>
-author = Shilpi 
+Author = Shilpi 
