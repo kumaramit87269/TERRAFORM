@@ -5,5 +5,3 @@ Author = Amit kumar
 Author = Shilpi 
 <br>
 Author = maneesh
-<br> 
-Author = king
